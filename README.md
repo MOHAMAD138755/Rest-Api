@@ -36,3 +36,9 @@ This project demonstrates building an API handling HTTP status codes, structured
     }
   ]
 }
+```
+## 🗂 API Versioning
+This API uses versioning to manage future updates:
+
+- **v1** → Current stable version for fetching user list  
+- **v2** → Future version (planned) for extended features or modified responses.
